@@ -89,7 +89,6 @@
 		88FEECCC27275ABD00ED368C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88FEECD127275ABD00ED368C /* Reminders 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Reminders 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		88FEECD727275ABD00ED368C /* Reminders 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Reminders 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		88FEECD927275ABD00ED368C /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		88FEECEF2727FEFF00ED368C /* Reminder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reminder.swift; sourceTree = "<group>"; };
 		88FEECF22728044100ED368C /* RemindersListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemindersListView.swift; sourceTree = "<group>"; };
 		88FEECF62728072D00ED368C /* RemindersListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemindersListViewModel.swift; sourceTree = "<group>"; };
@@ -227,7 +226,6 @@
 			children = (
 				8873A5C4281BDCB3000ED21B /* Configuration */,
 				88FEECC927275ABC00ED368C /* Shared */,
-				88FEECD827275ABD00ED368C /* macOS */,
 				88FEECD227275ABD00ED368C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -254,14 +252,6 @@
 				8873A5EE281BDF46000ED21B /* Make It So.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		88FEECD827275ABD00ED368C /* macOS */ = {
-			isa = PBXGroup;
-			children = (
-				88FEECD927275ABD00ED368C /* macOS.entitlements */,
-			);
-			path = macOS;
 			sourceTree = "<group>";
 		};
 		88FEECEB2727FEC100ED368C /* Features */ = {
