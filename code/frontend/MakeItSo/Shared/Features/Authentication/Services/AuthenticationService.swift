@@ -86,7 +86,7 @@ public class AuthenticationService: ObservableObject {
       try auth.useUserAccessGroup(accessGroup)
     }
     catch let error as NSError {
-      print("Error changing user access group: %@", error)
+      print("Error when changing user access group: %@", error)
     }
   }
   
