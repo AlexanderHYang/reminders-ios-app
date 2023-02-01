@@ -2,6 +2,7 @@
 ## Description
 This is a sample app that resembles the capabilities of a functional reminder application, modeled after the iOS Reminders app. The app offers a range of functionalities that make it easy for users to manage their reminders effectively. Users can add reminder items, specify the date and time for each reminder, highlight important reminders with a flag, associate URLs with reminders, and set the priority of each reminder to ensure they stay on top of the most pressing tasks.
 The front-end has been developed using SwiftUI in Xcode. The backend uses Firebase and Firestore to store and synchronize the user data, ensuring that reminders are always up-to-date and accessible.
+
 ## References
  <img src="assets/hero/repo-hero.png" alt="Logo">
 
@@ -16,6 +17,7 @@ The front-end has been developed using SwiftUI in Xcode. The backend uses Fireba
     - NEED TO DISABLE CORS extensions to enable Firestore: https://stackoverflow.com/questions/52281719/unable-to-use-firestore-for-fresh-projects
   - [Firebase Anonymous Auth documentation](https://goo.gle/2wLa36H): This is also a crucial step since without the anonymous authorization allowed in Firebase, all the incoming REST API requests would be denied.
     - In addition, datebase rules in Firestore need to be altered: https://stackoverflow.com/questions/46590155/firestore-permission-denied-missing-or-insufficient-permissions
+- **Demo video on Youtube**: https://youtu.be/LU_m_BZ3XCQ
 
 ## Instructions
 
