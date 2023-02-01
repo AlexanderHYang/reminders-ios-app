@@ -22,7 +22,7 @@ import Firebase
 import Resolver
 
 @main
-struct MakeItSoApp: App {
+struct RemindersApp: App {
   @LazyInjected
   var authenticationService: AuthenticationService
   
