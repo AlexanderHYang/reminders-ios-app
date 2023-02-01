@@ -18,11 +18,11 @@
 		88700F82276B517F0088F006 /* AuthenticationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88700F81276B517F0088F006 /* AuthenticationService.swift */; };
 		88700F83276B517F0088F006 /* AuthenticationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88700F81276B517F0088F006 /* AuthenticationService.swift */; };
 		88700F86276B52150088F006 /* Resolver in Frameworks */ = {isa = PBXBuildFile; productRef = 88700F85276B52150088F006 /* Resolver */; };
-		88700F88276B54810088F006 /* MakeItSoApp+Injection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88700F87276B54810088F006 /* MakeItSoApp+Injection.swift */; };
-		88700F89276B54810088F006 /* MakeItSoApp+Injection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88700F87276B54810088F006 /* MakeItSoApp+Injection.swift */; };
+		88700F88276B54810088F006 /* RemindersApp+Injection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88700F87276B54810088F006 /* RemindersApp+Injection.swift */; };
+		88700F89276B54810088F006 /* RemindersApp+Injection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88700F87276B54810088F006 /* RemindersApp+Injection.swift */; };
 		8873A5D2281BDF46000ED21B /* Reminder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FEECEF2727FEFF00ED368C /* Reminder.swift */; };
 		8873A5D3281BDF46000ED21B /* View+ConfirmationDialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FA998C274D63A400670474 /* View+ConfirmationDialog.swift */; };
-		8873A5D4281BDF46000ED21B /* MakeItSoApp+Injection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88700F87276B54810088F006 /* MakeItSoApp+Injection.swift */; };
+		8873A5D4281BDF46000ED21B /* RemindersApp+Injection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88700F87276B54810088F006 /* RemindersApp+Injection.swift */; };
 		8873A5D5281BDF46000ED21B /* ReminderListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FEECF927280F3D00ED368C /* ReminderListRowView.swift */; };
 		8873A5D6281BDF46000ED21B /* ReminderListRowViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88A1B7422756541400DB0494 /* ReminderListRowViewModel.swift */; };
 		8873A5D7281BDF46000ED21B /* Font+Rounded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E25438275E494900341C5C /* Font+Rounded.swift */; };
@@ -31,7 +31,7 @@
 		8873A5DA281BDF46000ED21B /* ReminderDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E7B7BD274CF30A00AF477D /* ReminderDetailsView.swift */; };
 		8873A5DB281BDF46000ED21B /* ReminderDetailsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C30CD5274D1B4500E6694D /* ReminderDetailsViewModel.swift */; };
 		8873A5DC281BDF46000ED21B /* AuthenticationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88700F81276B517F0088F006 /* AuthenticationService.swift */; };
-		8873A5DD281BDF46000ED21B /* MakeItSoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FEECCA27275ABC00ED368C /* MakeItSoApp.swift */; };
+		8873A5DD281BDF46000ED21B /* RemindersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FEECCA27275ABC00ED368C /* RemindersApp.swift */; };
 		8873A5DE281BDF46000ED21B /* View+Focus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 881EF5BC272DC399004761E5 /* View+Focus.swift */; };
 		8873A5DF281BDF46000ED21B /* RemindersRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88700F7C276B4FF90088F006 /* RemindersRepository.swift */; };
 		8873A5E0281BDF46000ED21B /* RemindersListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FEECF22728044100ED368C /* RemindersListView.swift */; };
@@ -56,8 +56,8 @@
 		88E7B7BF274CF30A00AF477D /* ReminderDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E7B7BD274CF30A00AF477D /* ReminderDetailsView.swift */; };
 		88FA998D274D63A400670474 /* View+ConfirmationDialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FA998C274D63A400670474 /* View+ConfirmationDialog.swift */; };
 		88FA99922750090200670474 /* View+InteractiveDismissDisable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FA99912750090200670474 /* View+InteractiveDismissDisable.swift */; };
-		88FEECDA27275ABD00ED368C /* MakeItSoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FEECCA27275ABC00ED368C /* MakeItSoApp.swift */; };
-		88FEECDB27275ABD00ED368C /* MakeItSoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FEECCA27275ABC00ED368C /* MakeItSoApp.swift */; };
+		88FEECDA27275ABD00ED368C /* RemindersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FEECCA27275ABC00ED368C /* RemindersApp.swift */; };
+		88FEECDB27275ABD00ED368C /* RemindersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FEECCA27275ABC00ED368C /* RemindersApp.swift */; };
 		88FEECDE27275ABD00ED368C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88FEECCC27275ABD00ED368C /* Assets.xcassets */; };
 		88FEECDF27275ABD00ED368C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88FEECCC27275ABD00ED368C /* Assets.xcassets */; };
 		88FEECF02727FEFF00ED368C /* Reminder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FEECEF2727FEFF00ED368C /* Reminder.swift */; };
@@ -75,7 +75,7 @@
 		881EF5BC272DC399004761E5 /* View+Focus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Focus.swift"; sourceTree = "<group>"; };
 		88700F7C276B4FF90088F006 /* RemindersRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemindersRepository.swift; sourceTree = "<group>"; };
 		88700F81276B517F0088F006 /* AuthenticationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationService.swift; sourceTree = "<group>"; };
-		88700F87276B54810088F006 /* MakeItSoApp+Injection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MakeItSoApp+Injection.swift"; sourceTree = "<group>"; };
+		88700F87276B54810088F006 /* RemindersApp+Injection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RemindersApp+Injection.swift"; sourceTree = "<group>"; };
 		8873A5EE281BDF46000ED21B /* Make It So.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Make It So.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8873A608281BEEAF000ED21B /* KeychainAccessGroupHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeychainAccessGroupHelper.swift; sourceTree = "<group>"; };
 		887B6FA9273ED4180028263D /* EmptyStateView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmptyStateView.swift; sourceTree = "<group>"; };
@@ -85,7 +85,7 @@
 		88E7B7BD274CF30A00AF477D /* ReminderDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderDetailsView.swift; sourceTree = "<group>"; };
 		88FA998C274D63A400670474 /* View+ConfirmationDialog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+ConfirmationDialog.swift"; sourceTree = "<group>"; };
 		88FA99912750090200670474 /* View+InteractiveDismissDisable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+InteractiveDismissDisable.swift"; sourceTree = "<group>"; };
-		88FEECCA27275ABC00ED368C /* MakeItSoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeItSoApp.swift; sourceTree = "<group>"; };
+		88FEECCA27275ABC00ED368C /* RemindersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemindersApp.swift; sourceTree = "<group>"; };
 		88FEECCC27275ABD00ED368C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88FEECD127275ABD00ED368C /* Reminders 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Reminders 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		88FEECD727275ABD00ED368C /* Reminders 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Reminders 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -237,8 +237,8 @@
 				887B6FA6273ED4180028263D /* Common */,
 				881EF5BB272DC366004761E5 /* Extensions */,
 				88FEECEB2727FEC100ED368C /* Features */,
-				88FEECCA27275ABC00ED368C /* MakeItSoApp.swift */,
-				88700F87276B54810088F006 /* MakeItSoApp+Injection.swift */,
+				88FEECCA27275ABC00ED368C /* RemindersApp.swift */,
+				88700F87276B54810088F006 /* RemindersApp+Injection.swift */,
 				88FEECCC27275ABD00ED368C /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -447,7 +447,7 @@
 			files = (
 				8873A5D2281BDF46000ED21B /* Reminder.swift in Sources */,
 				8873A5D3281BDF46000ED21B /* View+ConfirmationDialog.swift in Sources */,
-				8873A5D4281BDF46000ED21B /* MakeItSoApp+Injection.swift in Sources */,
+				8873A5D4281BDF46000ED21B /* RemindersApp+Injection.swift in Sources */,
 				8873A5D5281BDF46000ED21B /* ReminderListRowView.swift in Sources */,
 				8873A5D6281BDF46000ED21B /* ReminderListRowViewModel.swift in Sources */,
 				8873A5D7281BDF46000ED21B /* Font+Rounded.swift in Sources */,
@@ -457,7 +457,7 @@
 				8873A5DA281BDF46000ED21B /* ReminderDetailsView.swift in Sources */,
 				8873A5DB281BDF46000ED21B /* ReminderDetailsViewModel.swift in Sources */,
 				8873A5DC281BDF46000ED21B /* AuthenticationService.swift in Sources */,
-				8873A5DD281BDF46000ED21B /* MakeItSoApp.swift in Sources */,
+				8873A5DD281BDF46000ED21B /* RemindersApp.swift in Sources */,
 				8873A5DE281BDF46000ED21B /* View+Focus.swift in Sources */,
 				8873A5DF281BDF46000ED21B /* RemindersRepository.swift in Sources */,
 				8873A5E0281BDF46000ED21B /* RemindersListView.swift in Sources */,
@@ -471,7 +471,7 @@
 			files = (
 				88FEECF02727FEFF00ED368C /* Reminder.swift in Sources */,
 				88FA998D274D63A400670474 /* View+ConfirmationDialog.swift in Sources */,
-				88700F88276B54810088F006 /* MakeItSoApp+Injection.swift in Sources */,
+				88700F88276B54810088F006 /* RemindersApp+Injection.swift in Sources */,
 				88FEECFA27280F3D00ED368C /* ReminderListRowView.swift in Sources */,
 				88A1B7432756541400DB0494 /* ReminderListRowViewModel.swift in Sources */,
 				88E25439275E494900341C5C /* Font+Rounded.swift in Sources */,
@@ -481,7 +481,7 @@
 				88E7B7BE274CF30A00AF477D /* ReminderDetailsView.swift in Sources */,
 				88C30CD6274D1B4500E6694D /* ReminderDetailsViewModel.swift in Sources */,
 				88700F82276B517F0088F006 /* AuthenticationService.swift in Sources */,
-				88FEECDA27275ABD00ED368C /* MakeItSoApp.swift in Sources */,
+				88FEECDA27275ABD00ED368C /* RemindersApp.swift in Sources */,
 				881EF5BD272DC399004761E5 /* View+Focus.swift in Sources */,
 				88700F7D276B4FF90088F006 /* RemindersRepository.swift in Sources */,
 				88FEECF32728044100ED368C /* RemindersListView.swift in Sources */,
@@ -495,11 +495,11 @@
 			files = (
 				88FEECF12727FEFF00ED368C /* Reminder.swift in Sources */,
 				88700F7E276B4FF90088F006 /* RemindersRepository.swift in Sources */,
-				88700F89276B54810088F006 /* MakeItSoApp+Injection.swift in Sources */,
+				88700F89276B54810088F006 /* RemindersApp+Injection.swift in Sources */,
 				88C30CD7274D1B4500E6694D /* ReminderDetailsViewModel.swift in Sources */,
 				88FEECFB27280F3D00ED368C /* ReminderListRowView.swift in Sources */,
 				88700F83276B517F0088F006 /* AuthenticationService.swift in Sources */,
-				88FEECDB27275ABD00ED368C /* MakeItSoApp.swift in Sources */,
+				88FEECDB27275ABD00ED368C /* RemindersApp.swift in Sources */,
 				88FEECF42728044100ED368C /* RemindersListView.swift in Sources */,
 				88FEECF82728072D00ED368C /* RemindersListViewModel.swift in Sources */,
 				88A1B7442756541400DB0494 /* ReminderListRowViewModel.swift in Sources */,
