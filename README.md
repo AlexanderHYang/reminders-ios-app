@@ -1,6 +1,4 @@
 # Reminders 2.0
-
-**Developer:** Alex Yang
 ## Description
 This is a sample app that resembles the capabilities of a functional reminder application, modeled after the iOS Reminders app. The app offers a range of functionalities that make it easy for users to manage their reminders effectively. Users can add reminder items, specify the date and time for each reminder, highlight important reminders with a flag, associate URLs with reminders, and set the priority of each reminder to ensure they stay on top of the most pressing tasks.
 The front-end has been developed using SwiftUI in Xcode. The backend uses Firebase and Firestore to store and synchronize the user data, ensuring that reminders are always up-to-date and accessible.
