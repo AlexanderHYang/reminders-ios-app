@@ -8,7 +8,7 @@ The front-end has been developed using SwiftUI in Xcode. The backend uses Fireba
 - **Acknowledgements**: 
   - The codebase is larged cloned from [Make It So](https://github.com/peterfriese/MakeItSo) by [Peter Friese](https://github.com/peterfriese) from [Firebase](https://github.com/firebase). 
   <img src="assets/hero/repo-hero.png" alt="Logo">
-  - The application icon is based on [Check](https://thenounproject.com/term/check/1905028/) by [Robert Won](https://thenounproject.com/robertwon/) from the [Noun Project](https://thenounproject.com/)
+  - The application icon is based on [Check](https://thenounproject.com/term/check/1905028) by [Robert Won](https://thenounproject.com/robertwon) from the [Noun Project](https://thenounproject.com/)
 - [Orginal Youtube Tutorial](https://goo.gle/39UUab3): I started the project by watching this and understanding the ccodebase of the application. The first step of the project was to `git clone` the [Make It So](https://github.com/peterfriese/MakeItSo) repo and open it in Xcode.
 - [Peter's Twitter thread](https://twitter.com/peterfriese/status/1453467058302291975): I also followed Peter's twitter thread and applied updates to the code. The app was originally created in 2020 and consistently updated based on the changes to the folloiwng verisions of SwiftUI.
 - The following Firebase documentation helped a lot during the process of setting up the Firebase project and debugging:
